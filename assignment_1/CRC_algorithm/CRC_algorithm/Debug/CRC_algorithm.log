@@ -1,4 +1,0 @@
-﻿  CRC_algorithm.cpp
-c:\users\eslam\source\repos\crc_algorithm\crc_algorithm\crc_algorithm.cpp(68): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
-c:\users\eslam\source\repos\crc_algorithm\crc_algorithm\crc_algorithm.cpp(68): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
-  CRC_algorithm.vcxproj -> C:\Users\eslam\source\repos\CRC_algorithm\Debug\CRC_algorithm.exe
